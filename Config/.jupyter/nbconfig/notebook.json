@@ -1,0 +1,7 @@
+{
+  "load_extensions": {
+    "my_extension/main": true, 
+    "extension/main": true, 
+    "extension": true
+  }
+}
